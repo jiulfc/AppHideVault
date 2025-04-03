@@ -98,4 +98,4 @@ Certain services may not be available in all languages or regions. We makes no r
 
 ## Contact Us
 
-If you have any questions or concerns about these Terms, please contact us at: Email: [your-support-email@gmail.com]
+If you have any questions or concerns about these Terms, please contact us at: Email: <zhishoumowen@gmail.com>

@@ -133,4 +133,4 @@ We may update this Privacy Policy periodically. We’ll notify you of significan
 
 ## **Contact Us**
 
-If you have questions or concerns about this Privacy Policy, feel free to reach out: Email: [your-support-email@gmail.com]
+If you have questions or concerns about this Privacy Policy, feel free to reach out: Email: <zhishoumowen@gmail.com>
