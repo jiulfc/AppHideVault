@@ -2,7 +2,7 @@
 
 <img src="assets/logo.png" style="width:120px; padding: 20px 0;" />
 
-[PrivacyPolicy]('pp.html')  |  [Terms of uses]('terms.html')
+[PrivacyPolicy](pp.md)  |  [Terms of uses](terms.md)
 
 ## About
 
