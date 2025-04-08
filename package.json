@@ -1,0 +1,23 @@
+{
+  "name": "apphidevault",
+  "version": "1.0.0",
+  "description": "<img src=\"assets/logo.png\" style=\"width:120px; padding: 20px 0;\" />",
+  "main": "convet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiulfc/AppHideVault.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/jiulfc/AppHideVault/issues"
+  },
+  "homepage": "https://github.com/jiulfc/AppHideVault#readme",
+  "dependencies": {
+    "marked": "^15.0.8"
+  }
+}
